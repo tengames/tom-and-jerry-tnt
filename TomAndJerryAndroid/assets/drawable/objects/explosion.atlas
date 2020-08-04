@@ -1,0 +1,68 @@
+
+explosion.png
+format: RGBA8888
+filter: Nearest,Linear
+repeat: none
+light2
+  rotate: false
+  xy: 1, 35
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 67, 39
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 133, 45
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+smoke2
+  rotate: false
+  xy: 199, 49
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 269, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+spark1
+  rotate: false
+  xy: 335, 106
+  size: 95, 7
+  orig: 95, 7
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+peice1
+  rotate: false
+  xy: 335, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+peice3
+  rotate: false
+  xy: 369, 72
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
